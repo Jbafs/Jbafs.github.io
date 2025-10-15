@@ -1,11 +1,6 @@
-
 ---
-
-
 permalink: /
-
 title: "Julius Scales"
-
 author_profile: true
 redirect_from: 
   - /about/
