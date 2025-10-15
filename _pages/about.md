@@ -1,12 +1,23 @@
 
+---
 
-JULIUS SCALESBack-end Development
-			Web Development
-			Database experience
+
+permalink: /
+
+title: "Julius Scales"
+
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+Back-end Development
+Web Development
+Database experience
 PROFILE
 		CONTACT
 
-Personable and passionate student with computer science experience in multiple areas. Been successful at doing coding projects as a group and working in stressful stuations.			 	443-***-****
+Personable and passionate student with computer science experience in multiple areas. Been successful at doing coding projects as a group and working in stressful stuations.			 	443-422-1322
 			 	juliusscales@student.hcps.org
 			 	juliusbscales@gmail.com
 				
