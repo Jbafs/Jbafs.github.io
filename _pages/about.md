@@ -30,10 +30,7 @@ Pacific Tempo LLC.
 2020-PRESENT          MRS. SCALES: 301-943-7375
 Worked as a performer and social media manager for the company. Helped build the website as well as other involvement in planning events.			
 **EDUCATION**
-
 Havre de Grace High School ITOA Program
-
-			HCC Student
 2025-PRESENT
 
 
